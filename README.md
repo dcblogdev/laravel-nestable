@@ -1,4 +1,4 @@
-Laravel 5 Nestable
+Laravel Nestable
 ========
 
 Forked from https://github.com/atayahmet/laravel-nestable due to being archived and needing the package to support Laravel 6. Thanks to Ahmet for this package.
