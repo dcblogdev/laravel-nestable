@@ -1,6 +1,8 @@
 Laravel 5 Nestable
 ========
 
+Forked from https://github.com/atayahmet/laravel-nestable due to being archived and needing the package to support Laravel 6. Thanks to Ahmet for this package.
+
 Laravel Nestable to work with recursive logic. Category level there is no limit but
 this may vary depending on your server performance. Allow the 100000 recursion process execution since PHP 5.2. [More info](http://php.net/manual/en/pcre.configuration.php#ini.pcre.recursion-limit)
 
